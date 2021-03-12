@@ -1,0 +1,3 @@
+{
+  "code": "import { * as importCode } from './file.js';\n\nconst message = 'hello';\n\nfunction logMessage(messageToLog) {\n  console.log(message);\n}\n\nlogMessage(message);"
+}
